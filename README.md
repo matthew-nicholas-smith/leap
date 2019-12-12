@@ -18,7 +18,11 @@ you can traverse throughout time to help yourself solve the leap
 all while slowly falling asleep
 
 
-# how to use
-Download this webpage.
-Download this zip:https://github.com/mrdoob/three.js/archive/master.zip
-Move the zip and the webpage into the same file and double click the webpage.
+# How to use
+Unzip the following into the same folder
+
+https://github.com/mrdoob/three.js/archive/master.zip
+
+https://github.com/matthew-nicholas-smith/theworkingtitlegame/archive/master.zip
+
+double click "theworkingtitlegame-master", followed by "playtheworkingtitlegame.html"
