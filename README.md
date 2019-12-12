@@ -19,12 +19,22 @@ all while slowly falling asleep
 
 
 # How to use
-Unzip the following link 
-
--click the link
--open your files app
--go to the zip file
--right click
--select 'extract here'
+Unzip the following link, open it and follow the directions you see
 
 https://github.com/matthew-nicholas-smith/theworkingtitlegame/archive/master.zip
+
+-click the link
+
+-open your files app
+
+-go to the zip file
+
+-right click the file
+
+-select *"extract here"*
+
+-double click *"theworkingtitlegame-master"*
+
+-double click *"doubleclick"*
+
+-don't double click *"dontdoubleclick"*
