@@ -19,8 +19,12 @@ all while slowly falling asleep
 
 
 # How to use
-Unzip the following into its own folder (click the link, open your files app, go to the file, right click and select extract)
+Unzip the following link 
+
+-click the link
+-open your files app
+-go to the zip file
+-right click
+-select 'extract here'
 
 https://github.com/matthew-nicholas-smith/theworkingtitlegame/archive/master.zip
-
-follow the given instructions
