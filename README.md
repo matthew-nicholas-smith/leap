@@ -19,10 +19,8 @@ all while slowly falling asleep
 
 
 # How to use
-Unzip the following into the same folder
-
-https://github.com/mrdoob/three.js/archive/master.zip
+Unzip the following into its own folder (click the link, open your files app, go to the file, right click and select extract)
 
 https://github.com/matthew-nicholas-smith/theworkingtitlegame/archive/master.zip
 
-double click "theworkingtitlegame-master", followed by "playtheworkingtitlegame.html"
+follow the given instructions
