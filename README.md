@@ -1,4 +1,4 @@
-# theworkingtitlegame
+# leap
 We know you're on your phone playing games instead of sleeping. Why not both?
 #
 A game with action and puzzles and art and more
@@ -21,7 +21,7 @@ all while slowly falling asleep
 # How to use
 Unzip the following link, open it and follow the directions you see
 
-https://github.com/matthew-nicholas-smith/theworkingtitlegame/archive/master.zip
+https://github.com/matthew-nicholas-smith/leap/archive/master.zip
 
 -click the link
 
@@ -33,7 +33,7 @@ https://github.com/matthew-nicholas-smith/theworkingtitlegame/archive/master.zip
 
 -select *"extract here"*
 
--double click *"theworkingtitlegame-master"*
+-double click *"leap-master"*
 
 -double click *"doubleclick"*
 
