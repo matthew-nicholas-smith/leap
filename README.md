@@ -19,11 +19,11 @@ all while slowly falling asleep
 
 
 # How to use
-Unzip the following link, open it and follow the directions you see
+Unzip the following link, open it and follow the directions you see inside the file (more direct instructions below)
 
 https://github.com/matthew-nicholas-smith/leap/archive/master.zip
 
--click the link
+-click the above link
 
 -open your files app
 
@@ -35,6 +35,4 @@ https://github.com/matthew-nicholas-smith/leap/archive/master.zip
 
 -double click *"leap-master"*
 
--double click *"doubleclick"*
-
--don't double click *"dontdoubleclick"*
+-double click *"doubleclick"*, not *"dontdoubleclick"*
